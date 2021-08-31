@@ -19,7 +19,7 @@ Collab Calculator application using AngularJS and Spring WebSockets (STOMP over 
 - Password : Admin
 
 ## To Run As a Guest User, just enter the Username
--Username : RM(Desired Screen name)
+- Username : RM(Desired Screen name)
 
 ## Running the app
 
