@@ -7,7 +7,7 @@ Collab Calculator application using AngularJS and Spring WebSockets (STOMP over 
 ## Features
 - Built with Spring Boot
 - User login
-- MMathematical Expression broadcasting and private messages (filtering profanities)
+- Mathematical Expression broadcasting and private messages (filtering profanities)
 - Presence tracking sending notifications when users join / leave
 - Broadcast notifications when users are typing
 - WebSockets stats exposed at /stats
@@ -17,6 +17,9 @@ Collab Calculator application using AngularJS and Spring WebSockets (STOMP over 
 ## Credentials for the Admin
 - Username : Rajeev (Your Name)
 - Password : Admin
+
+## To Run As a Guest User, just enter the Username
+-Username : RM(Desired Screen name)
 
 ## Running the app
 
